@@ -1,5 +1,13 @@
 # Train_Machine_Learning_Project
-Video Processing for Train Bottom View
+Submission Details : 
+1. Google drive Link for accessing Raw_data and Processed_video for input and output :
+   https://drive.google.com/drive/folders/1iDNhZquQiEHktyOrW7ZcTriWQSkvCYg5
+
+2. Google drive Link for the recording :
+   https://drive.google.com/drive/folders/1gZ9ePSUwplqQ3seUPfJxPGctv7Hjz51V
+   
+Video Processing for Train Bottom View :
+
 1. Environment
    - Mount the google drive to store input/output
      from google.colab import drive
